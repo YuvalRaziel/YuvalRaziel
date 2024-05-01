@@ -1,4 +1,4 @@
-A mathematician who likes to write code for fum.
+A mathematician who likes to write code for fun.
 
 <!---
 YuvalRaziel/YuvalRaziel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
